@@ -10,7 +10,8 @@ Installation
 
 1. Copy the content of copy_this into your OXID root directory (no files will be overwritten)
 2. Emtpy the tmp directory of your OXID installation
-3. You will find the module within the OXID admin on the left under "fk Dashboard".
+3. enable the module under /Erweiterungen/module => Sales Statistik
+3. You will find the module within the OXID admin on the left under "Sales Statistik".
 
 ENJOY!
 
@@ -29,6 +30,10 @@ Legend
  - -> Removed
  ! -> Note
 
+-------------------- 0.7 stable [2013-10-22] by Peter Wiedeking (peter.wiedeking@abendtuete.de) -------------------
+ ! Tested with OXID CE 4.7.5
+ ^ Moved to new OXID Module Layout. No new features!
+ 
 -------------------- 0.6 stable [2011-03-29] by Marc Würth (development@orca-services.ch) -------------------
  -	Removed cust_lang.php, not needed anymore
  ^	Changed menu navigation
