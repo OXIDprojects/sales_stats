@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-15"?>
-<OX>
-  <OXMENU id="FK_DASHBOARD">
-    <MAINMENU id="FK_DASHBOARD_MENUITEM">
-      <SUBMENU id="FK_DASHBOARD_MENUSUBITEM" cl="FK_DASHBOARD" rights="malladmin" />
-    </MAINMENU>
-  </OXMENU>
-</OX>
